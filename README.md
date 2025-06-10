@@ -6,7 +6,7 @@
 
 ```sh
 # Linux:
-git clone https://gitlab-stud.elka.pw.edu.pl/kgromko/bso_projekt.git
+git clone https://github.com/kodzisan/BSO_scaner_project.git
 cd bso_projekt
 ```
 
@@ -69,4 +69,4 @@ chmod +x install_all.sh
 
 ---
 
-Projekt: https://gitlab-stud.elka.pw.edu.pl/kgromko/bso_projekt.git
+Projekt: https://github.com/kodzisan/BSO_scaner_project.git
