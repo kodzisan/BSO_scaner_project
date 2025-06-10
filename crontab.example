@@ -1,0 +1,3 @@
+# Przykładowy wpis do crontaba dla automatycznego skanowania i wysyłki raportu
+# Uruchamia skrypt codziennie o 2:00 w nocy
+0 2 * * * /ścieżka/do/bso_projekt/scripts/scan-and-export.gmp.sh >> /ścieżka/do/bso_projekt/cron.log 2>&1
